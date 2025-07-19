@@ -200,7 +200,7 @@ export const projects = [{
         description: "A weather app provides users with real-time updates on current weather conditions, forecasts, and alerts. It typically features temperature, humidity, wind speed, and precipitation details, along with forecasts for the next few days. Many weather apps also offer additional features like radar imagery and air quality indexes. With intuitive interfaces and customizable settings, weather apps help users plan their daily activities and stay informed about changing weather conditions.",
         image: weatherLogo,
         tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-        github: "https://github.com/ankit6370232757/moive-app",
+        github: "https://github.com/ankit6370232757/Weather_App",
         webapp: "https://weatherapplicationby.netlify.app/",
     },
     {
