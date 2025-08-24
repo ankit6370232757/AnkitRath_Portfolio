@@ -8,6 +8,7 @@ import Education from "./components/Education/Education";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import BlurBlob from './components/BlurBlob';
+import ChatAssistant from "./components/ChatAssistant";
 
 const App = () => {
   return (
@@ -26,6 +27,7 @@ const App = () => {
         <Education />
         <Contact />
         <Footer />
+        <ChatAssistant/>
       </div>
 
     </div>
